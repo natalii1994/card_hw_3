@@ -24,7 +24,6 @@
         "lodash": "^4.17.21"
     },
     "devDependencies": {
-        "axios": "^1.2.3",
         "eslint": "^8.32.0",
         "eslint-config-prettier": "^8.6.0",
         "eslint-plugin-prettier": "^4.2.1",
